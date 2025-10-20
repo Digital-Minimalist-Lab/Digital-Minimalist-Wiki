@@ -24,6 +24,9 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Digital-Minimalist-Lab', // Usually your GitHub org/user name.
   projectName: 'Digital-Minimalist-Wiki', // Usually your repo name.
+  deploymentBranch: 'main',
+
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
 
