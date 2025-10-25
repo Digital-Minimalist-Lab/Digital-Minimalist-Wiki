@@ -1,6 +1,6 @@
-# Website
+# Digital Minimalist Wiki
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This wiki site is built using [Docusaurus](https://docusaurus.io/), a modern SSG.
 
 ## Installation
 
@@ -11,7 +11,7 @@ pnpm i
 ## Local Development
 
 ```bash
-pnpm run serve
+pnpm run start
 ```
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
@@ -26,7 +26,7 @@ This command generates static content into the `build` directory and can be serv
 
 Using SSH:
 ```bash
-USE_SSH=true yarn deploy
+USE_SSH=true pnpm run deploy
 ```
 
 Not using SSH:
