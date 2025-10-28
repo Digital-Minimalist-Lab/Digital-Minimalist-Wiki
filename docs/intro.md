@@ -1,3 +1,8 @@
+---
+sidebar_label: Introduction
+sidebar_position: 0
+---
+
 :::info
 
 This page is a draft.
@@ -5,6 +10,7 @@ This page is a draft.
 :::
 
 This page will:
+
 - have a short pitch on digital minimalism
 - a nice graphic (optional)
 - mini-guide on how to navigate the wiki:
