@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Reading"
+sidebar_label: "Instagram"
 ---
 
 :::info
