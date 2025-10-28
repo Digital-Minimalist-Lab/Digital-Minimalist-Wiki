@@ -1,0 +1,32 @@
+name: Test PR changes
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test-deploy:
+    name: Test PR
+    runs-on: ubuntu-24.04
+    strategy:
+      matrix:
+        node-version: [25]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install
+      - name: Test build website
+        run: pnpm run build
