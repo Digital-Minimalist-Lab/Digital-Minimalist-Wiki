@@ -6,7 +6,7 @@ sidebar_label: "Naturalism"
 
 ## Connecting to Nature
 
-It might seem silly to write a guide on how to appreciate nature. Just go explore nature, right? If that works for you, great! But maybe, for you, going out into nature has felt boring, or maybe the reductive instruction to "touch grass" wasn't enough to make you feel anchored and surrounded by life that is worth paying attention to. This is normal and probably the more common experience. If 'connecting to nature' wasn't automatic or felt ambiguous then maybe the approach laid out below can help.
+It might seem silly to write a guide on how to appreciate nature. Just go explore nature, right? If that works for you, great! But maybe, for you, going out into nature has felt boring, or maybe the reductive instruction to "touch grass" wasn't enough to make you feel anchored and surrounded by life that is worth paying attention to. This is normal and probably the more common experience. If 'connecting to nature' wasn't automatic for you or felt ambiguous then maybe the approach laid out below can help.
 
 In Jenny Odell's book _How to do Nothing_ she draws from the philosophy of bioregionalism as a way to ground ourselves in the real world, outside of the attention economy. This approach begins by cultivating knowledge of your local bioregion: who lives there with you, what is the history of the place on which you stand, and what is only visible to those who know where to look. Each connection we build up in this knowledge graph of our bioregion is another thread that connects us to the real world.
 
@@ -34,9 +34,9 @@ Below we highlight some ways to start with your species/discipline of choice.
 
 ### Birds
 
-Birding is popular for a reason. You learn to identify a species and are instantly rewarded. The feedback loop rivals that of a slot machine as there is something innatley pleasurable in pattern matching for humans.
+Birding is popular for a reason. You learn to identify a species and are instantly rewarded. The feedback loop rivals that of a slot machine as there is something innately pleasurable in pattern matching for humans.
 
-This reccommendation is just about learning to identify the different birds, which while very fun will lose its novelty fast so do keep notes on bird behavior as that is where the long term enjoyment really comes in. There is a whole discussion around the gamification of checklisting and I suggest paying no attention to this while you begin. Instead, just keep in mind that the birds are all _up to something_ and it can be fun to figure it out.
+This recommendation is just about learning to identify the different birds, which while very fun will lose its novelty fast so do keep notes on bird behavior as that is where the long term enjoyment really comes in. There is a whole discussion around the gamification of checklisting and I suggest paying no attention to this while you begin. Instead, just keep in mind that the birds are all _up to something_ and it can be fun to figure it out.
 
 :::info[Get Started Birding]
 Look up your city on [Ebird Hotspots](https://ebird.org/hotspots) and find a nearby location with submitted checklists and go visit. Try and see if you can find the most reported birds.
@@ -49,7 +49,7 @@ For Geology I think there are two ways to approach it. Macro and micro. Macro be
 :::info[Get Started with Geology]
 For the macro side, check out your bioregion on https://macrostrat.org/. Do you live near a dividing line? Maybe choose a notable divide and go see the difference in person.
 
-For the micro side, just start collecting rocks you find cool and do some research to identify. Get a field guide or a rock ID app and start just making notes about the rocks you find. If you can, I reccommend investing in a cheap jewelers loupe, you will find that many boring looking rocks are covered in tiny crystals and have interesting patterns with a bit of magnification.
+For the micro side, just start collecting rocks you find cool and do some research to identify. Get a field guide or a rock ID app and start just making notes about the rocks you find. If you can, I recommend investing in a cheap jewelers loupe, you will find that many boring looking rocks are covered in tiny crystals and have interesting patterns with a bit of magnification.
 :::
 
 ### Fungi
@@ -83,7 +83,7 @@ These will be region specific so you may need to do some research but some gener
 
 ### Apps, Tech, and **Gasp** Emails
 
-This is a place where tech can really help with ID's. The automatic image and sound classifiers can be good, but I reccommend trying to find a community of nature lovers through the more social of these apps, notably eBird and iNaturalist.
+This is a place where tech can really help with ID's. The automatic image and sound classifiers can be good, but I recommend trying to find a community of nature lovers through the more social of these apps, notably eBird and iNaturalist.
 
 - Cheap Jewelers Loupe - this is great for rock ID, but it really makes looking at everything (leaves, mushrooms, moss) much more interesting. Highly, highly suggest keeping one on you at all times.
 - Phone's built in camera might have a plant ID setting. I know my iPhone does and it's pretty darn good!
