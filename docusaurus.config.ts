@@ -45,7 +45,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/Digital-Minimalist-Lab/Digital-Minimalist-Wiki/edit/main/',
+            'https://github.com/Digital-Minimalist-Lab/Digital-Minimalist-Wiki/edit/main/docs/',
         },
         blog: {
           showReadingTime: true,
@@ -54,7 +54,7 @@ const config: Config = {
             xslt: true,
           },
           editUrl:
-            'https://github.com/Digital-Minimalist-Lab/Digital-Minimalist-Wiki/edit/main/',
+            'https://github.com/Digital-Minimalist-Lab/Digital-Minimalist-Wiki/edit/main/docs/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
