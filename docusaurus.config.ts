@@ -44,10 +44,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Digital-Minimalist-Lab/Digital-Minimalist-Wiki/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Digital-Minimalist-Lab/Digital-Minimalist-Wiki/edit/main/docs/',
         },
         blog: {
           showReadingTime: true,
@@ -55,10 +53,8 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Digital-Minimalist-Lab/Digital-Minimalist-Wiki/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Digital-Minimalist-Lab/Digital-Minimalist-Wiki/edit/main/docs/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
