@@ -1,12 +1,13 @@
 allowBuilds:
-  '@swc/core': true
-  core-js: true
-  core-js-pure: true
+    "@swc/core": true
+    core-js: true
+    core-js-pure: true
 
 blockExoticSubdeps: false
 
 ignoredBuiltDependencies:
-  - '@swc/core'
+    - "@swc/core"
+    - simple-git-hooks
 
 minimumReleaseAge: 1440
 
@@ -15,5 +16,5 @@ strictDepBuilds: true
 trustPolicy: no-downgrade
 
 trustPolicyExclude:
-  - detect-port@1.6.1
-  - semver@6.3.1
+    - detect-port@1.6.1
+    - semver@6.3.1
